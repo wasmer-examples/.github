@@ -28,7 +28,7 @@ Here you'll find a set of examples to run in [Wasmer](https://wasmer.io) and [Wa
   * [Axum](https://github.com/wasmer-examples/wasmer-axum-starter) : [live example](https://wasix-axum-example.wasmer.app/)
   * [Rust WCGI](https://github.com/wasmer-examples/wcgi-rust-starter) : [live example](https://wcgi-rust-starter.wasmer.app/)
 * PHP
-  * [PHP WCGI](https://github.com/wasmer-examples/wcgi-php-starter) : [live example](https://github.com/wasmer-examples/wcgi-php-starter)
+  * [PHP WCGI](https://github.com/wasmer-examples/wcgi-php-starter) : [live example](https://wcgi-php-starter-template.wasmer.app/)
 * Go
   * [Hugo](https://github.com/wasmer-examples/hugo-wasmer-starter) : [live example](https://wasmer-edge-hugo-sample.wasmer.app/)
 * [CDN](https://github.com/wasmer-examples/cdn-wasmer-starter) : [live example](https://cdn-wasmer-starter.wasmer.app/)
