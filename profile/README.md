@@ -12,7 +12,8 @@
 
 Here you'll find a set of examples to run in [Wasmer](https://wasmer.io) and [Wasmer Edge](https://wasmer.io/products/edge):
 * Javascript
-  * [Next.js](https://github.com/wasmer-examples/next-wasmer-starter): [live example](https://nextjs-wasmer-starter.wasmer.app/)
+  * [Next.js](https://github.com/wasmer-examples/next-wasmer-starter): [live example](https://next-rsc-hn.wasmer.app/)
+  * [Next.js Server Side Components](https://github.com/wasmer-examples/next-server-components-wasmer-starter): [live example](https://nextjs-wasmer-starter.wasmer.app/)
   * [Next.js Static Site](https://github.com/wasmer-examples/next-static-wasmer-starter): [live example](https://wasmer-edge-next-ssg-sample.wasmer.app/)
   * [Hono](https://github.com/wasmer-examples/hono-wasmer-starter): [live example](https://hono-wasmer-starter.wasmer.app/)
   * [Remix.run](https://github.com/wasmer-examples/remix-wasmer-starter): [live example](https://remix-wasmer-starter.wasmer.app/)
