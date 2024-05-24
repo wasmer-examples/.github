@@ -31,7 +31,11 @@ Here you'll find a set of examples to run in [Wasmer](https://wasmer.io) and [Wa
   * [Axum](https://github.com/wasmer-examples/wasmer-axum-starter) : [live example](https://wasix-axum-example.wasmer.app/)
   * [Rust WCGI](https://github.com/wasmer-examples/wcgi-rust-starter) : [live example](https://wcgi-rust-starter.wasmer.app/)
 * PHP
-  * [PHP WCGI](https://github.com/wasmer-examples/wcgi-php-starter) : [live example](https://wcgi-php-starter-template.wasmer.app/)
+  * [PHP](https://github.com/wasmer-examples/php-wasmer-starter) : [live example](https://php-starter-wasmer-examples.wasmer.app/)
+  * [Symfony](https://github.com/wasmer-examples/symfony-wasmer-starter) : [live example](https://symfony-wasmer-examples.wasmer.app/)
+  * [Laravel](https://github.com/wasmer-examples/laravel-wasmer-starter) : [live example](https://laravel-wasmer-examples.wasmer.app/)
+  * [Wordpress](https://github.com/wasmer-examples/wordpress-wasmer-starter) : [live example](https://wordpress-wasmer-examples.wasmer.app/)
+  * [ReactPHP](https://github.com/wasmer-examples/reactphp-wasmer-starter): no live example yet
 * Go
   * [Hugo](https://github.com/wasmer-examples/hugo-wasmer-starter) : [live example](https://wasmer-edge-hugo-sample.wasmer.app/)
 * [CDN](https://github.com/wasmer-examples/cdn-wasmer-starter) : [live example](https://cdn-wasmer-starter.wasmer.app/)
