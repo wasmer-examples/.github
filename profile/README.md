@@ -27,6 +27,7 @@ Here you'll find a set of examples to run in [Wasmer](https://wasmer.io) and [Wa
   * [mkdocs](https://github.com/wasmer-examples/mkdocs-wasmer-starter) : [live example](https://wasmer-edge-mkdocs-sample.wasmer.app/)
   * [HTTP Server](https://github.com/wasmer-examples/python-wasmer-starter) : [live example](https://python-worker-wasmer-starter-worker.wasmer.app/)
   * [Flask](https://github.com/wasmer-examples/python-flask-starter) : [live example](https://wasmer-python-flask-server-worker.wasmer.app/)
+  * [Langchain](https://github.com/wasmer-examples/python-langchain-starter) : [live example](https://python-langchain-starter.wasmer.app)
   * [Django](https://github.com/wasmer-examples/django-wasmer-starter) : [live example](https://django-template.wasmer.app)
   * [FastAPI](https://github.com/wasmer-examples/fastapi-wasmer-starter) : [live example](https://fastapi-template.wasmer.app)
   * [MCP](https://github.com/wasmer-examples/mcp-wasmer-starter) : [live example](https://mcp-template.wasmer.app)
